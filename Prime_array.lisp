@@ -69,7 +69,7 @@
 
 )
 
-; A few function calls to test all functions
+; A few function calls to test that everything works fine
 (primes_into_array 100 nil)
 (write_file)
 (load_file)
